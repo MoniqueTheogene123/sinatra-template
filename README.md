@@ -1,4 +1,4 @@
-# sinatra-template
+# password_generator
 
 Use this repository to create new Sinatra apps. 
 
