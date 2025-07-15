@@ -18,3 +18,9 @@ end
 ```
 
 Some rights reserved — see [LICENSE.txt](LICENSE.txt)
+
+``` ruby
+Password Generator
+Develop a password generator that generates random passwords based on user-specified criteria 
+(e.g., length, inclusion of numbers or special characters).
+```
