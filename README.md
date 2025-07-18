@@ -2,9 +2,9 @@
 
 ``` ruby
 Password Generator
-Generates random password that is 10 characters long.
-Upon reload of page or "generate"
-the password updates and the random brewery api updates
+------------------
+Generates random password that is 10 characters long and fetchs api data for a random brewery.
+Upon reload, both password and brewery info update.
 ```
 
 Some rights reserved — see [LICENSE.txt](LICENSE.txt)
