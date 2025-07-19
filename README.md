@@ -1,8 +1,6 @@
 # password_generator
 
 ``` ruby
-Password Generator
-------------------
 Generates random password that is 10 characters long and fetchs api data for a random brewery.
 Upon reload, both password and brewery info update.
 ```
